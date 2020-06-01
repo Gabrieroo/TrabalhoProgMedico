@@ -27,7 +27,6 @@
         android:textColor="#000"
         android:text=" * campos_obrigatorios" />
 
-g
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -110,7 +109,7 @@ g
             android:text="Uf :" />
 
         <Spinner
-            android:id="@+id/ufSpinner"
+            android:id="@+id/pacienteUfSpinner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             />

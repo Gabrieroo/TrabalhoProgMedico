@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".editarPaciente"></activity>
+        <activity android:name=".listar"></activity>
+        <activity android:name=".editarPaciente" />
         <activity android:name=".editarConsulta" />
         <activity android:name=".editarMedico" />
         <activity android:name=".paciente" />
